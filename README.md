@@ -157,7 +157,7 @@ PW :000000
 }
 ```
 
-## [🚀 핵심 기능 설명](https://github.com/FRONTENDSCHOOL5/final-03-code-space/wiki/CodeSpace)
+
 
 ## <span id="skill">🛠️기능 및 추가기능</span>
 
@@ -193,6 +193,8 @@ PW :000000
 * 상품 등록
 
 <br/>
+
+# [🚀 핵심 기능 설명](https://github.com/FRONTENDSCHOOL5/final-03-code-space/wiki/CodeSpace)
 
 # <span id="ui">🪐CodeSpace UI</span>
 
