@@ -157,7 +157,7 @@ PW :000000
 }
 ```
 
-
+## [🚀 핵심 기능 설명](https://github.com/FRONTENDSCHOOL5/final-03-code-space/wiki/CodeSpace)
 
 ## <span id="skill">🛠️기능 및 추가기능</span>
 
@@ -238,7 +238,7 @@ PW :000000
 | <img height="540px" width="300px" src="https://github.com/FRONTENDSCHOOL5/final-03-code-space/assets/75787973/b2e6f39a-ecd2-43ed-82d5-a4a6ec9ccc61"> | <img height="540px" width="300px" src="https://github.com/FRONTENDSCHOOL5/final-03-code-space/assets/75787973/1520e4e9-ab58-4137-9878-0ef41516f054"> | <img height="540px" width="300px" src="https://github.com/FRONTENDSCHOOL5/final-03-code-space/assets/75787973/9765c2e0-9fbc-4e7c-bc06-d0a2c06d61a3"> |
 
 
-### [🚀 핵심 기능 설명](https://github.com/FRONTENDSCHOOL5/final-03-code-space/wiki/CodeSpace)
+
 ## <span id="folder">📁폴더 구조</span>
 ```
 📦final-03-code-space 
