@@ -9,7 +9,7 @@ ID :codespacetest1@test.com
 PW :000000
 ```
 
-<img src="https://github.com/FRONTENDSCHOOL5/final-03-code-space/assets/75787973/0c2f7d0c-5168-418e-9303-a425fd5a4273">
+<img src="https://github.com/FRONTENDSCHOOL5/final-03-code-space/assets/75787973/0c2f7d0c-5168-418e-9303-a425fd5a4273" alt="main_image">
 
 `개발 기간 : 2023.06.01 ~ 2023.06.30` <br/>
 
